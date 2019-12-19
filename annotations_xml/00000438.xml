@@ -1,0 +1,1 @@
+<annotations><filename>00000438.JPEG</filename><folder>images</folder><size><width>1280</width><height>855</height><depth>3</depth></size><object><name>Lamborghini Huracan</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>123.0</xmin><ymin>260.0</ymin><xmax>1233.0</xmax><ymax>749.0</ymax></bndbox></object></annotations>

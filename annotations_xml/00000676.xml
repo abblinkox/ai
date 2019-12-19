@@ -1,0 +1,1 @@
+<annotations><filename>00000676.JPEG</filename><folder>images</folder><size><width>640</width><height>426</height><depth>3</depth></size><object><name>Ferrari 488 GTB</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>59.99999999999997</xmin><ymin>34.0</ymin><xmax>569.0</xmax><ymax>380.0</ymax></bndbox></object></annotations>
